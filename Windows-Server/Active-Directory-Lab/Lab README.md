@@ -6,6 +6,7 @@ Simulate a real-world helpdesk environment using Windows Server and Active Direc
 ## Environment
 - Windows Server 2022 (Domain Controller)
 - Windows 10 clients
+- Windows 11 clients
 - VirtualBox
 
 ## Key Tasks
