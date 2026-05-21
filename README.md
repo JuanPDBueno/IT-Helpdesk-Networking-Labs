@@ -16,10 +16,10 @@ This repository contains hands-on labs and projects focused on entry-level IT su
 - Enterprise VLAN Network Design
 
 ## Tools Used
-- Windows Server 2016-2022
-- Windows 10
+- Windows Server 2019-2022
+- Windows 10/11
 - Cisco Packet Tracer
-- VirtualBox / VMware
+- VirtualBox
 
 ## Career Goal
 Seeking an entry-level IT Helpdesk or Junior Network Engineer role to build strong operational and troubleshooting skills.
